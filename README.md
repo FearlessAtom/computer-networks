@@ -1,4 +1,1 @@
- - [lab1](https://github.com/FearlessAtom/computer-networks/tree/lab1)
- - [lab2](https://github.com/FearlessAtom/computer-networks/tree/lab2)
- - [lab3](https://github.com/FearlessAtom/computer-networks/tree/lab3)
- - [lab4](https://github.com/FearlessAtom/computer-networks/tree/lab4)
+### [main branch](https://github.com/FearlessAtom/computer-networks)

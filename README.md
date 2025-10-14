@@ -2,3 +2,4 @@
  - [lab2](https://github.com/FearlessAtom/computer-networks/tree/lab2)
  - [lab3](https://github.com/FearlessAtom/computer-networks/tree/lab3)
  - [lab4](https://github.com/FearlessAtom/computer-networks/tree/lab4)
+ - [lab5](https://github.com/FearlessAtom/computer-networks/tree/lab5)

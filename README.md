@@ -6,3 +6,4 @@
  - [lab6](https://github.com/FearlessAtom/computer-networks/tree/lab6)
  - [lab7](https://github.com/FearlessAtom/computer-networks/tree/lab7)
  - [lab8](https://github.com/FearlessAtom/computer-networks/tree/lab8)
+ - [lab9](https://github.com/FearlessAtom/computer-networks/tree/lab9)

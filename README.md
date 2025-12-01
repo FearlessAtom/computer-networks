@@ -9,3 +9,4 @@
  - [lab9](https://github.com/FearlessAtom/computer-networks/tree/lab9)
  - [lab10](https://github.com/FearlessAtom/computer-networks/tree/lab10)
  - [lab11](https://github.com/FearlessAtom/computer-networks/tree/lab11)
+ - [lab12](https://github.com/FearlessAtom/computer-networks/tree/lab12)
